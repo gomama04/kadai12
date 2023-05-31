@@ -11,7 +11,7 @@ public class Monster extends Character {
 	    this.df = df;
 	}
 
-	@Override
+	
 	public int attack() {
 		System.out.println(this.name + "の攻撃");
 		System.out.println(this.at + "のダメージ");
