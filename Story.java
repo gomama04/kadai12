@@ -9,7 +9,7 @@ public class Story {
 	    c[1] = new Magician("魔法使い", 100, 50, 100, 100, 100);
 	    c[2] = new Monster("モンスター", 250, 50, 50);
 
-	    // バトル開始
+	
 	    battle(c);
 
 	}
